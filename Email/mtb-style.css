@@ -1,0 +1,65 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    box-sizing: border-box;
+    font-size: 16px;
+    line-height: 1.7;
+    color: #333;
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn:focus {
+    box-shadow: none;
+}
+
+.font-w5 {
+    font-weight: 500;
+}
+
+.font-w7 {
+    font-weight: 700;
+}
+
+.font-15 {
+    font-size: 15px;
+}
+
+.font-18 {
+    font-size: 18px;
+}
+
+.font-25 {
+    font-size: 25px;
+}
+
+.font-35 {
+    font-size: 35px;
+}
+
+.wrapper {
+    width: 100%;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.bg-color1 {
+    background-color: #f9f9f9;
+}
+
+.w-45 {
+    width: 45%;
+}
+
+.image {
+    width: 16.2rem;
+    height: 16.2rem;
+}
+
+.text-justify {
+    text-align: justify;
+}
